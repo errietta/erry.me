@@ -9,7 +9,7 @@ I'm a software engineer, so expect all this to be quite technical. Detailed post
 
 
 * [About me](/about)
-* [CV](/cv)
+* [CV](/errykcv_.pdf)
 * [github](https://github.com/errietta/)
 
 
