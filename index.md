@@ -9,7 +9,5 @@ I'm a software engineer, so expect all this to be quite technical. Detailed post
 
 
 * [About me](/about)
-* [CV](/errykcv_.pdf)
+* [CV](/errykcv_.pdf){:target="_blank"}.
 * [github](https://github.com/errietta/)
-
-
